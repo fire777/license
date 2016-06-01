@@ -1,0 +1,8 @@
+https://117.41.182.71/svn
+
+教务系统
+https://117.41.182.71/svn/hdjcw_jwxt
+	ftplsb	ftplsb
+
+禅道地址：http://192.168.1.249/
+	Lisb	123456
